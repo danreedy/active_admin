@@ -1,4 +1,5 @@
 require 'sass/importers'
+require 'sass/plugin'
 
 # This monkey patches the SASS filesystem importer to work with files
 # that are named *.css.scss. This allows us to be compatible with both
